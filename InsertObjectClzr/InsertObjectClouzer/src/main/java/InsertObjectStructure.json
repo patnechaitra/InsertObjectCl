@@ -1,0 +1,12 @@
+{
+	     'action':"INSERT",
+	     'dataArray': 
+	     {
+			'ACTION_ARRAY':"ADD_EVENT",
+			'ACTIVE_STATUS':"1",
+			'CML_ACCEPTED':"1"
+			
+		},			
+	'moduleName':"TSK",
+	'offLineRequest':'true'
+}
